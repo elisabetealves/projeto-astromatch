@@ -31,7 +31,7 @@ O objetivo foi criar uma landing Page de uma empresa de tênis voltado para o co
     <p style="font-weight: bold;">🔗 Link do projeto no Surge</p>
 </h1>
 
-https://perpetual-sound.surge.sh
+https://clammy-beef.surge.sh/
 
 <br>
 
