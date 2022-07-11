@@ -3,8 +3,15 @@
     <p align="center" style="font-weight: bold;">🚀 Projeto Astromatch<p>
 </h1>
 
+<h1>
+     <br>
+    <p style="font-weight: bold;">🎯 Objetivo do projeto</p>
+</h1>
+
 <p align="justify">O  Astrodev deixou de legado para vocês um projeto com o objetivo de fazer um clone do Tinder: o Astromatch. 
 Vamos pedir para que você implemente o projeto, tentando usar ao máximo os conhecimentos adquiridos durante essa semana, a saber: Hooks (*useState e/ou* *useEffect)*</p>
+
+<p align="justify">O objetivo desse projeto foi treinar a mudança de componentes de classe para componentes funcionais, focando na utilização dos Hooks (useState() e useEffect()) vistos durante as aulas do bootcamp fullstack da Labenu</p>
 
 <br>
 
@@ -15,12 +22,13 @@ Vamos pedir para que você implemente o projeto, tentando usar ao máximo os con
 
 O objetivo foi criar uma landing Page de uma empresa de tênis voltado para o conforto de quem trabalha em escritório.
 
-- Link do projeto do SURGE
-- Layout
-- Tecnologias Utilizadas
-- Requisitos
-- O que funcina e não funciona
-- Colaborador!
+- 🔗Link do projeto do SURGE
+- 🎨 Layout
+- 🛠️ Tecnologias Utilizadas
+- ⚙️ Requisitos
+- ✔️ O que funcina e não funciona
+- ❌ O que não funciona
+- 👨‍💻 Colaborador!
 
 <br>
 
@@ -127,7 +135,7 @@ _Qualquer dúvida ou sugestão, chama no contatinho!_
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/elisabetealves"><img style="border-radius: 50%;" src="https://unavatar.now.sh/github/elisabetealves" width="100px;" alt=""/><br /><sub><b>Elisabete Alves</b></sub></a><br /><a target="_blank" href="https://www.linkedin.com/mwlite/in/elisabete-alves-675637135">LinkedIn</a> </td>       
+     <td align="center"><a href="https://github.com/elisabetealves"><img style="border-radius: 50%;" src="https://unavatar.now.sh/github/elisabetealves" width="100px;" alt=""/><br /><sub><b>Elisabete Alves</b></sub></a><br /><a href="https://www.linkedin.com/in/elisabete-a-santos/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>       
   </tr>
   
 </table>
